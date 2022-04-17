@@ -1,6 +1,6 @@
 package mymodule
 
-import "fmt
+import "fmt"
 
 const version = "1.0.0"
 
